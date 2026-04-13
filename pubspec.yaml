@@ -1,0 +1,23 @@
+name: fake_store
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.11.4
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.9.0
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.11.0
+  dartz: ^0.10.1
+  dio: ^5.9.2
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.31.0
+  build_runner: ^2.13.1
+  json_serializable: ^6.13.1
+  freezed: ^3.2.5
+  mockito: ^5.6.4

@@ -1,0 +1,36 @@
+# Dart/Pub
+.dart_tool/
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Generated files (build_runner, freezed, json_serializable)
+*.g.dart
+*.freezed.dart
+
+# Build
+/build/
+
+# Coverage
+coverage/
+*.lcov
+.test_coverage/
+
+# IDE
+.idea/
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
