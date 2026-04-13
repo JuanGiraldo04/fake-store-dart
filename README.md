@@ -34,7 +34,7 @@ test/
 | `GET /products` | Lista todos los productos disponibles |
 | `GET /products/{id}` | Retorna el detalle de un producto específico |
 | `GET /carts` | Lista todos los carritos de compra |
-
+| `GET /users` | Lista todos los usuarios |
 ---
 
 ## Diseño de los modelos de datos
